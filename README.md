@@ -57,14 +57,17 @@ Course 2 Hyperparameter tuning, Regularization and Optimization
 
 Course5 Sequence Model
 
-- [Week1](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C5week1.ipynb)
+- [Week1](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C5Week1.ipynb)
     - RNN 基本结构
       - RNN的正向传播
       - BPTT反向传播
       - 梯度消失问题
       - 梯度爆炸/Clipping方法
-    - GRU基本结构
-    - LSTM基本结构
+      - RNN的numpy实现
+    - GRU
+        - pytorch实现
+    - LSTM
+        - pytorch实现
     - 双向RNN
     - Deep RNN
 - [Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C5week2.ipynb) **!todo**
