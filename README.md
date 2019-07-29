@@ -70,10 +70,10 @@ Course5 Sequence Model
         - pytorch实现
     - 双向RNN
     - Deep RNN
-- [Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C5week2.ipynb) **!todo**
+- [Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C5Week2.ipynb) **!todo**
     - 词嵌入
     - Word2Vec && GloVe
-- [Week3](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C5week3.ipynb) **!todo**
+- [Week3](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C5Week3.ipynb)
     - Seq2Seq
     - Beam Search
     - Attention Model
