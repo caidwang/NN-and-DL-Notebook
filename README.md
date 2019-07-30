@@ -1,5 +1,7 @@
 # Deep Learning Specialization 学习笔记
 
+吴恩达的Deep Learning Specialization 知识点整理, 建议与课程一起食用, 这部分作为复习时快速过知识点.[Coursera](https://www.coursera.org/specializations/deep-learning). 内容暂时跳过了CNN部分
+
 Course 1 Neural Networks and Deep Learning
 
 - [ Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C1week2.ipynb)
@@ -21,17 +23,16 @@ Course 1 Neural Networks and Deep Learning
 
 Course 2 Hyperparameter tuning, Regularization and Optimization
 
-- [Week1](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2week1.ipynb) **!todo**
-    - Train/Dev/Test sets
-    - Bias/Variance
-    - Regularization
-      - why it works
-      - L1/L2 Reg
-      - Dropout
-      - Other methods
-    - Normalization
-      - gradients Vanish/Exploding
-      - Gradients Check
+- [Week1](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2week1.ipynb)
+    - train/Dev/Test Set
+    - 利用Bias和Variance诊断模型
+    - 正则化
+        - L1/L2
+        - Dropout
+        - others
+    - 标准化
+    - 梯度爆炸和梯度消失
+    - 参数初始化
 
 - [Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2Week2.ipynb)
     - Mini-batch训练方法和优点
@@ -54,6 +55,8 @@ Course 2 Hyperparameter tuning, Regularization and Optimization
     - TensorFlow基础
         - tensorflow基本操作
         - 使用tensorFlow训练全连接多分类器
+
+Course3 Structuring Machine Learning Projects **Todo!**
 
 Course5 Sequence Model
 
@@ -81,3 +84,4 @@ Course5 Sequence Model
 Others
 
 [如何在coursera上申请奖学金免费学习完整课程](https://github.com/caidwang/NN-and-DL-Notebook/blob/master/How%20to%20Apply%20Financial%20Aid%20for%20this%20Specialization.md)
+[pytorch快速入门](https://blog.csdn.net/m0_37407587/article/details/96479154)
