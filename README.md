@@ -1,10 +1,10 @@
 # Deep Learning Specialization 学习笔记
 
-吴恩达的Deep Learning Specialization 知识点整理, 建议与课程一起食用, 这部分作为复习时快速过知识点.[Coursera](https://www.coursera.org/specializations/deep-learning). 内容暂时跳过了CNN部分
+吴恩达的Deep Learning Specialization 知识点整理, 内容暂时跳过了CNN部分, 建议与课程一起食用, 这部分作为复习时快速过知识点, 课程参考[Coursera](https://www.coursera.org/specializations/deep-learning). 
 
 Course 1 Neural Networks and Deep Learning
 
-- [ Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C1week2.ipynb)
+- [ Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C1Week2.ipynb)
     - logistic回归 -- 二分类器
         - sigmoid函数
         - loss函数 && MSE和Cross Entropy方法对比
@@ -23,16 +23,16 @@ Course 1 Neural Networks and Deep Learning
 
 Course 2 Hyperparameter tuning, Regularization and Optimization
 
-- [Week1](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2week1.ipynb)
+- [Week1](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2Week1.ipynb)
     - train/Dev/Test Set
     - 利用Bias和Variance诊断模型
     - 正则化
         - L1/L2
         - Dropout
         - others
-    - 标准化
+    - 归一化
     - 梯度爆炸和梯度消失
-    - 参数初始化
+    - Xavier参数初始化
 
 - [Week2](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2Week2.ipynb)
     - Mini-batch训练方法和优点
@@ -44,7 +44,7 @@ Course 2 Hyperparameter tuning, Regularization and Optimization
     - 学习率衰减
         - 神经网络优化中的局部最优问题
 
-- [Week3](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2week3.ipynb)
+- [Week3](https://nbviewer.jupyter.org/github/caidwang/NN-and-DL-Notebook/blob/master/C2Week3.ipynb)
     - 超参调整
         - 调整顺序(重要性排列)
         - 调整方法
@@ -80,8 +80,11 @@ Course5 Sequence Model
     - Seq2Seq
     - Beam Search
     - Attention Model
+    - Attention变种 **todo!**
+        - Self Attention
+        - Multi-head Attention
 
 Others
 
-[如何在coursera上申请奖学金免费学习完整课程](https://github.com/caidwang/NN-and-DL-Notebook/blob/master/How%20to%20Apply%20Financial%20Aid%20for%20this%20Specialization.md)
-[pytorch快速入门](https://blog.csdn.net/m0_37407587/article/details/96479154)
+- [如何在coursera上申请奖学金免费学习完整课程](https://github.com/caidwang/NN-and-DL-Notebook/blob/master/How%20to%20Apply%20Financial%20Aid%20for%20this%20Specialization.md)
+- [pytorch快速入门](https://blog.csdn.net/m0_37407587/article/details/96479154)
