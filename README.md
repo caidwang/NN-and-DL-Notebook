@@ -80,7 +80,7 @@ Course5 Sequence Model
     - Seq2Seq
     - Beam Search
     - Attention Model
-    - Attention变种 **todo!**
+    - Attention变种
         - Self Attention
         - Multi-head Attention
 
