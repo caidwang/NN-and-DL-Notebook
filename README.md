@@ -84,6 +84,13 @@ Course5 Sequence Model
         - Self Attention
         - Multi-head Attention
 
+Reinforcement Learning
+
+- [RL_03](./ReinforcementLearning/RL_03.ipynb)
+- [RL_04](./ReinforcementLearning/RL_04.ipynb)
+- [RL_05](./ReinforcementLearning/RL_05.ipynb)
+- [RL_08](./ReinforcementLearning/RL_08.ipynb)
+
 Others
 
 - [如何在coursera上申请奖学金免费学习完整课程](https://github.com/caidwang/NN-and-DL-Notebook/blob/master/How%20to%20Apply%20Financial%20Aid%20for%20this%20Specialization.md)
